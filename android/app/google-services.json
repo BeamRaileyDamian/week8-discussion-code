@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400342809067",
+    "project_id": "cmsc23-bmdamian",
+    "storage_bucket": "cmsc23-bmdamian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400342809067:android:6ba33110492329e97a81ae",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400342809067-b0ltkis2gvh09o2u04kdmjenorr9uh4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MKmLmPg8tsAZwrHD9ihyeTTRiO0jeEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400342809067-b0ltkis2gvh09o2u04kdmjenorr9uh4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
